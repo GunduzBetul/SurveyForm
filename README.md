@@ -1,4 +1,4 @@
-# WS-1
+# SurveyForm
 You can view the project via this link
 
-https://gunduzbetul.github.io/WS-1/
+https://gunduzbetul.github.io/SurveyForm/
